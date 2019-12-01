@@ -21,6 +21,10 @@ namespace UserMaintenance
             lblLastName.Text = Resource1.LastName;
             lblFirstName.Text = Resource1.FirstName;
             btnAdd.Text = Resource1.Add;
+
+            listBox1.DataSource = users;
+            listBox1.ValueMember = "ID";
+            listBox1.DisplayMember = "FullName";
         }
 
         private void btnAdd_Click(object sender, EventArgs e)

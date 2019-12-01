@@ -49,7 +49,7 @@
             // 
             this.lblLastName.AutoSize = true;
             this.lblLastName.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.lblLastName.Location = new System.Drawing.Point(365, 53);
+            this.lblLastName.Location = new System.Drawing.Point(327, 52);
             this.lblLastName.Name = "lblLastName";
             this.lblLastName.Size = new System.Drawing.Size(70, 26);
             this.lblLastName.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.lblFirstName.AutoSize = true;
             this.lblFirstName.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.lblFirstName.Location = new System.Drawing.Point(365, 108);
+            this.lblFirstName.Location = new System.Drawing.Point(327, 108);
             this.lblFirstName.Name = "lblFirstName";
             this.lblFirstName.Size = new System.Drawing.Size(70, 26);
             this.lblFirstName.TabIndex = 2;
